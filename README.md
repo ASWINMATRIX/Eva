@@ -47,7 +47,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/ASWINMATRIX/Jacki
 $ cd ElsaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -58,7 +58,7 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
+$ git clone https://github.com/ASWINMATRIX/Jacki
 $ cd ElsaMwol
 $ chmod +x *
 $ npm i
