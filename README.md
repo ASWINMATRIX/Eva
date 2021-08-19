@@ -48,7 +48,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/ASWINMATRIX/Jacki
-$ cd ElsaMwol
+$ cd Jacki
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -59,7 +59,7 @@ $ node qr.js
 SETUP
 
 $ git clone https://github.com/ASWINMATRIX/Jacki
-$ cd ElsaMwol
+$ cd Jacki
 $ chmod +x *
 $ npm i
 $ node qr.js
