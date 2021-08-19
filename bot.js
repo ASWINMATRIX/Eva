@@ -1,7 +1,7 @@
 /* Copyright (C) 2020 JIHAD.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsAsena - elsamwol
+WhatsAsena - Jacki
 */
 
 const fs = require("fs");
@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('ElsaMwol working! 🕺')
+            chalk.green.bold ('Jacki working! 🕺')
         );
     });
     
