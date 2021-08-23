@@ -3,7 +3,7 @@
   
   <p align="center">
     
-<a href="#"><img title="ᴊᴀᴄᴋɪ"blue?&style=for-the-bage"></a>
+<a href="#"><img title="ᴊᴀᴄᴋɪ" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
   
  
       
