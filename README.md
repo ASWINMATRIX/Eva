@@ -3,7 +3,7 @@
   
   <p align="center">
     
-<a href="#"><img title="ᴊᴀᴄᴋɪ"src="https://img.shields.io/badge/-KILLADI blue?&style=for-the-badge"></a>
+<a href="#"><img title="ᴊᴀᴄᴋɪ"blue?&style=for-the-bage"></a>
   
  
       
