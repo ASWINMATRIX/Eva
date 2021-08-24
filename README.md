@@ -13,7 +13,7 @@
 blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-MOLU-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
 ## 😎💖💕❤️
