@@ -32,7 +32,7 @@ Click WA logo to Join Support Group 👇
  
 
 
-# Elsa Mwol WhatsApp Bot 
+# ༒ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡𝘈𝘴𝘸𝘪𝘯༒︎ WhatsApp Bot 
 
 # Setup
 <div align="center">
