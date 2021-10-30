@@ -1,5 +1,5 @@
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Evamol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+featuresev(https://git.io/typing-sv 19)
-<div align="center">
+https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Evamol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+features
+<ldiv align="center">
   <img border-radius: 15px src="Eva .jpg" width="200" height="200"/>
   
   <p align="center">
