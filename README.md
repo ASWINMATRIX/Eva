@@ -1,5 +1,5 @@
 
-  ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=W80000&lines=Welcome+to+Evamol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+feature)
+  ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=V80000&lines=Welcome+to+Evamol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+feature)
 <div align="center">
   <img border-radius: 15px src="Eva .jpg" width="200" height="200"/>
   
