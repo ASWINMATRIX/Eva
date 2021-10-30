@@ -1,6 +1,7 @@
 
-   <ldiv align="center">
-    <img border-radius: 15px src="Eva .jpg" width="200" height="200"/>
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Evamol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+feature)ev(https://git.io/typing-sv 20
+<div align="center">
+  <img border-radius: 15px src="Eva .jpg" width="200" height="200"/>
   
   <p align="center">
     
@@ -87,4 +88,4 @@ By establishing the Userbot, you are deemed to have accepted these responsibilit
 
 Project created by Eva mwol to make it public
 
-© Reserved
+© Reserved 
