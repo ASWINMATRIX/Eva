@@ -1,34 +1,4 @@
-<div align="center">
-  <img border-radius: 15px src="Eva .jpg" width="200" height="200"/>
-  
-  <p align="center">
-    
-<a href="#"><img title="ᴊᴀᴄᴋɪ" src="https://img.shields.io/badge/ASWIN KKD-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-  
- 
-      
-  
-  
-
-blue?&style=for-the-badge"></a>
- </p>
-  <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-MOLU-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
- </p>
- 
-## 😎💖💕❤️
- 
-![20210613_095153](https://user-images.githubuserconsrc="jackie+Chan+Cartoon+Wallpaper-723840-4.jpg) 
-
- ##
-
- 
-# 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
-  <div align="center">
+<div align=
  
 
 
@@ -49,29 +19,6 @@ Click WA logo to Join Support Group 👇
 ## The Hard Method
 
 ```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/ASWINMATRIX/Jacki
-$ cd Jacki
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-
-$ git clone https://github.com/ASWINMATRIX/Jacki
-$ cd Jacki
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
 
 
 ### ⚠️ Warning! 
